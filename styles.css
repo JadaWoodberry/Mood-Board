@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.stuff {
+    display: flex;
+    justify-content: center;
+}
+
+.pics {
+    width: 200px;
+    border: solid 20px white;
+    height: 200px;
+
+}
+
+.af {
+    display: flex;
+    justify-content: center;
+}
